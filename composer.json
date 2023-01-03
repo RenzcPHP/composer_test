@@ -1,0 +1,16 @@
+{
+    "name": "burning/my-first-composer",
+    "description": "my first composer test",
+    "autoload": {
+        "psr-4": {
+            "Burning\\MyFirstComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "renzhicai",
+            "email": "renzhicai@yibaicloud.com"
+        }
+    ],
+    "require": {}
+}

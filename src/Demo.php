@@ -15,4 +15,9 @@ class Demo
         return "Hello world!";
     }
 
+    public function testChatGptCodeReview()
+    {
+        return typ($a);
+    }
+
 }

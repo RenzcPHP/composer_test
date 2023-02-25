@@ -17,7 +17,7 @@ class Demo
 
     public function testChatGptCodeReview()
     {
-        return typ($a);
+        return testChatgpt($a);
     }
 
 }
